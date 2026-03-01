@@ -115,6 +115,6 @@ following tables:
 
 To clone the repository:
 
-    git clone https://github.com/yourusername/pharmacy-system.git
+    git clone 
 
 After cloning, open the project in your IDE and run MenuApp.java.
