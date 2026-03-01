@@ -115,6 +115,6 @@ following tables:
 
 To clone the repository:
 
-    git clone 
+    git clone https://github.com/Andri4757/Pharmacy-Management-System
 
 After cloning, open the project in your IDE and run MenuApp.java.
